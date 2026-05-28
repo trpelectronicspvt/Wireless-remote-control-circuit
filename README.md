@@ -9,7 +9,7 @@ This project showcases a hardware-based wireless remote control system designed 
 - **No Microcontroller Required:** Purely built using robust hardware ICs (555 Timer & 4017 Counter).
 
 ## 📊 Schematic & Circuit Diagram
-![Circuit Diagram](image_ac0104.png) 
+![Circuit Diagram](Files/1.jpg) 
 *(Tip: Apni image ka naam yahan brackets mein sahi se daal dena jab aap use upload karoge)*
 
 ## 🧱 Component Details & Specifications
