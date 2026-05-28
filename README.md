@@ -10,7 +10,6 @@ This project showcases a hardware-based wireless remote control system designed 
 
 ## 📊 Schematic & Circuit Diagram
 ![Circuit Diagram](Files/1.jpg) 
-*(Tip: Apni image ka naam yahan brackets mein sahi se daal dena jab aap use upload karoge)*
 
 ## 🧱 Component Details & Specifications
 The circuit is built using the following components:
