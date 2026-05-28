@@ -36,5 +36,7 @@ The circuit is built using the following components:
 ![Circuit Diagram](Files/IMG_20250812_204727.jpg)
 ![Circuit Diagram](Files/IMG_20250812_204647.jpg)
 
+[![Watch the Video](https://img.youtube.com/vi/YiBfglc0cFamgEQ1/maxresdefault.jpg)](https://www.youtube.com/watch?v=YiBfglc0cFamgEQ1)
+
 ---
 Developed under **TRP Electronics** | The Minor Projects
