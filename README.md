@@ -31,4 +31,10 @@ The circuit is built using the following components:
 
 🔗 PCB Designs: [PDF 2](Files/Remote_control_System_Bottum[1].pdf)
 
+---
+## 📌 Process
+![Circuit Diagram](Files/IMG_20250812_204727.jpg)
+![Circuit Diagram](Files/IMG_20250812_204647.jpg)
+
+---
 Developed under **TRP Electronics** | The Minor Projects
