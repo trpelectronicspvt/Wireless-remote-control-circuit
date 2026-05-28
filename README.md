@@ -28,5 +28,6 @@ The circuit is built using the following components:
 4. **Load Switching:** The BC547 transistor amplifies the signal to energize the 5V relay coil, safely completing the AC Serial Connection.
 
 ---
-🔗 PCB Designs: [PDF 1](Remote_control_System_nd.pdf)
+🔗 PCB Designs: [PDF 1](Files/Remote_control_System_nd.pdf)
+🔗 PCB Designs: [PDF 2](Files/Remote_control_System_Bottum[1].pdf)
 Developed under **TRP Electronics** | The Minor Projects
