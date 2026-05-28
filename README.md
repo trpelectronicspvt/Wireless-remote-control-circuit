@@ -26,9 +26,9 @@ The circuit is built using the following components:
 2. **Pulse Shaping:** The NE555 Timer (configured in monostable/astable mode) processes the trigger to give a clean clock pulse.
 3. **State Toggling:** The CD4017 Decade Counter receives the clock pulse at Pin 14 and toggles its output states between Pin 2 and Pin 3.
 4. **Load Switching:** The BC547 transistor amplifies the signal to energize the 5V relay coil, safely completing the AC Serial Connection.
---
-🔗 PCB Designs: [PDF 1](Files/Remotecontrol_System_nd.pdf)
 ---
+🔗 PCB Designs: [PDF 1](Files/pdf_1.pdf)
+
 🔗 PCB Designs: [PDF 2](Files/Remote_control_System_Bottum[1].pdf)
 
 Developed under **TRP Electronics** | The Minor Projects
